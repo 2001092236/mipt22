@@ -410,4 +410,4 @@ You can use any automatic differentiation framework in this section (Jax, PyTorc
 	$$
 
 	1. Find an optimal solution to the Linear Programming problem using the simplex method.
-	1. Write the dual linear program. Find an optimal dual solution. Do we have strong duality here?
+	1. Write the dual linear problem. Find an optimal dual solution. Do we have strong duality here?
