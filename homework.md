@@ -386,7 +386,7 @@ You can use any automatic differentiation framework in this section (Jax, PyTorc
 
 	but you cannot use any numerical algorithm here.
 
-1. Transform the following linear program into an equivalent linear program in standard form $$\left(c^\top x \to \max\limits_{x\in \mathbb{R}^n} : Ax = b,x ≥ 0\right)$$:
+1. Transform the following linear problem into an equivalent linear problem in standard form $$\left(c^\top x \to \max\limits_{x\in \mathbb{R}^n} : Ax = b,x ≥ 0\right)$$:
 
 	$$
 	\begin{split}
